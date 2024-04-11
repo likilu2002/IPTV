@@ -1,0 +1,215 @@
+#EXTM3U
+#EXTINF:-1 group-title="上海,#genre#",全民热练
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226508/index.m3u8$8.1M_1080
+#EXTINF:-1 group-title="上海,#genre#",凤凰资讯
+http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
+#EXTINF:-1 group-title="上海,#genre#",凤凰资讯
+https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
+#EXTINF:-1 group-title="上海,#genre#",凤凰资讯
+http://112.19.171.156:9999/udp/239.93.0.118:2191
+#EXTINF:-1 group-title="上海,#genre#",凤凰资讯
+http://giwon.ddns.net:5555/udp/239.93.0.118:2191
+#EXTINF:-1 group-title="上海,#genre#",凤凰卫视
+http://112.19.171.156:9999/udp/239.93.0.162:2192
+#EXTINF:-1 group-title="上海,#genre#",凤凰卫视
+https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
+#EXTINF:-1 group-title="上海,#genre#",东方卫视
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+#EXTINF:-1 group-title="上海,#genre#",东方卫视
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225942/index.m3u8
+#EXTINF:-1 group-title="上海,#genre#",东方卫视
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000182/index.m3u8?IAS
+#EXTINF:-1 group-title="上海,#genre#",东方卫视
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010054/1.m3u8
+#EXTINF:-1 group-title="上海,#genre#",新闻综合
+http://222.71.11.180:4022/rtp/239.45.3.209:5140
+#EXTINF:-1 group-title="上海,#genre#",新闻综合
+http://101.224.32.157:9876/rtp/239.45.3.209:5140
+#EXTINF:-1 group-title="上海,#genre#",都市频道
+http://222.71.11.180:4022/rtp/239.45.3.236:5140
+#EXTINF:-1 group-title="上海,#genre#",都市频道
+http://101.224.32.157:9876/rtp/239.45.3.236:5140
+#EXTINF:-1 group-title="上海,#genre#",五星体育
+http://222.71.11.180:4022/rtp/239.45.3.210:5140
+#EXTINF:-1 group-title="上海,#genre#",五星体育
+http://gd.52tb.xyz:88/php/tt4.php?id=193
+#EXTINF:-1 group-title="上海,#genre#",五星体育
+http://111.20.35.107:6610/000000001000/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=00
+#EXTINF:-1 group-title="上海,#genre#",五星体育
+http://101.224.32.157:9876/udp/239.45.3.210:5140
+#EXTINF:-1 group-title="上海,#genre#",五星体育
+http://php.jdshipin.com:8880/bst.php?id=ssty/4000000
+#EXTINF:-1 group-title="上海,#genre#",第一财经
+http://222.71.11.180:4022/rtp/239.45.3.211:5140
+#EXTINF:-1 group-title="上海,#genre#",第一财经
+http://101.224.32.157:9876/rtp/239.45.3.211:5140
+#EXTINF:-1 group-title="上海,#genre#",纪实人文
+http://222.71.11.180:4022/rtp/239.45.3.212:5140
+#EXTINF:-1 group-title="上海,#genre#",东方影视
+http://222.71.11.180:4022/rtp/239.45.3.237:5140
+#EXTINF:-1 group-title="上海,#genre#",哈哈炫动
+http://222.71.11.180:4022/rtp/239.45.1.55:5140
+#EXTINF:-1 group-title="上海,#genre#",上视外语
+http://222.71.11.180:4022/rtp/239.45.1.127:5140
+#EXTINF:-1 group-title="上海,#genre#",都市剧场
+http://222.71.11.180:4022/rtp/239.45.3.136:5140
+#EXTINF:-1 group-title="上海,#genre#",欢笑剧场
+http://222.71.11.180:4022/rtp/239.45.3.196:5140
+#EXTINF:-1 group-title="上海,#genre#",全纪实
+http://222.71.11.180:4022/rtp/239.45.3.135:5140
+#EXTINF:-1 group-title="上海,#genre#",生活时尚
+http://222.71.11.180:4022/rtp/239.45.3.132:5140
+#EXTINF:-1 group-title="上海,#genre#",游戏风云
+http://222.71.11.180:4022/rtp/239.45.3.131:5140
+#EXTINF:-1 group-title="上海,#genre#",教育台
+http://222.71.11.180:4022/rtp/239.45.3.122:5140#http://222.71.11.180:4022/rtp/239.45.3.252:5140
+#EXTINF:-1 group-title="上海,#genre#",东方财经
+http://222.71.11.180:4022/rtp/239.45.1.119:5140#http://222.71.11.180:4022/rtp/239.45.3.192:5140
+#EXTINF:-1 group-title="上海,#genre#",七彩戏剧
+http://222.71.11.180:4022/rtp/239.45.3.61:5140#http://222.71.11.180:4022/rtp/239.45.1.112:5140
+#EXTINF:-1 group-title="上海,#genre#",法治天地
+http://222.71.11.180:4022/rtp/239.45.1.46:5140
+#EXTINF:-1 group-title="上海,#genre#",金色频道
+http://222.71.11.180:4022/rtp/239.45.1.118:5140#http://222.71.11.180:4022/rtp/239.45.3.51:5140
+#EXTINF:-1 group-title="上海,#genre#",健康人生
+http://222.71.11.180:4022/rtp/239.45.3.214:5140
+#EXTINF:-1 group-title="上海,#genre#",百事通超级体育
+http://222.71.11.180:4022/rtp/239.45.3.139:5140
+#EXTINF:-1 group-title="上海,#genre#",苏州4k
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV4K
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8#http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV1
+http://8.134.211.236:13556/china/cctv.php?id=cctv1
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV2
+http://8.134.211.236:13556/china/cctv.php?id=cctv2
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV3
+http://8.134.211.236:13556/china/cctv.php?id=cctv3
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV4
+http://8.134.211.236:13556/china/cctv.php?id=cctv4
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV5
+http://8.134.211.236:13556/china/cctv.php?id=cctv5
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV5+
+http://8.134.211.236:13556/china/cctv.php?id=cctv5p
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV6
+http://8.134.211.236:13556/china/cctv.php?id=cctv6
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV7
+http://8.134.211.236:13556/china/cctv.php?id=cctv7
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV8
+http://8.134.211.236:13556/china/cctv.php?id=cctv8
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV9
+http://8.134.211.236:13556/china/cctv.php?id=cctv9
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV10
+http://8.134.211.236:13556/china/cctv.php?id=cctv10
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV11
+http://8.134.211.236:13556/china/cctv.php?id=cctv11
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV12
+http://8.134.211.236:13556/china/cctv.php?id=cctv12
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV13
+http://8.134.211.236:13556/china/cctv.php?id=cctv13
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV14
+http://8.134.211.236:13556/china/cctv.php?id=cctv14
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV15
+http://8.134.211.236:13556/china/cctv.php?id=cctv15
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV16
+http://8.134.211.236:13556/china/cctv.php?id=cctv16
+#EXTINF:-1 group-title="央视卫视,#genre#",CCTV17
+http://8.134.211.236:13556/china/cctv.php?id=cctv17
+#EXTINF:-1 group-title="",CCTV1
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
+#EXTINF:-1 group-title="",CCTV2
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
+#EXTINF:-1 group-title="",CCTV3
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8
+#EXTINF:-1 group-title="",CCTV4
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
+#EXTINF:-1 group-title="",CCTV5
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
+#EXTINF:-1 group-title="",CCTV5+
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
+#EXTINF:-1 group-title="",CCTV6
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8
+#EXTINF:-1 group-title="",CCTV7
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8
+#EXTINF:-1 group-title="",CCTV8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/index.m3u8
+#EXTINF:-1 group-title="",CCTV9
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8
+#EXTINF:-1 group-title="",CCTV10
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/index.m3u8
+#EXTINF:-1 group-title="",CCTV11
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8
+#EXTINF:-1 group-title="",CCTV12
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8
+#EXTINF:-1 group-title="",CCTV13
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8#http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010093/1.m3u8
+#EXTINF:-1 group-title="",CCTV14
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
+#EXTINF:-1 group-title="",CCTV15
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8
+#EXTINF:-1 group-title="",CCTV16
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
+#EXTINF:-1 group-title="",CCTV17
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
+#EXTINF:-1 group-title="",湖南卫视
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000482/index.m3u8?IAS
+#EXTINF:-1 group-title="",东方卫视
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000182/index.m3u8?IAS
+#EXTINF:-1 group-title="",四川卫视
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000330/index.m3u8?IAS
+#EXTINF:-1 group-title="",天津卫视
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000249/index.m3u8?IAS
+#EXTINF:-1 group-title="",安徽卫视
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000368/index.m3u8?IAS
+#EXTINF:-1 group-title="",山东卫视
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000364/index.m3u8?IAS
+#EXTINF:-1 group-title="",广东卫视
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000341/index.m3u8?IAS
+#EXTINF:-1 group-title="",江苏卫视
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000177/index.m3u8?IAS
+#EXTINF:-1 group-title="",江西卫视
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000522/index.m3u8?IAS
+#EXTINF:-1 group-title="",河北卫视
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000487/index.m3u8?IAS
+#EXTINF:-1 group-title="",河南卫视
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000310/index.m3u8?IAS
+#EXTINF:-1 group-title="",浙江卫视
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000248/index.m3u8?IAS
+#EXTINF:-1 group-title="",海南卫视
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?IAS
+#EXTINF:-1 group-title="",深圳卫视
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000352/index.m3u8?IAS
+#EXTINF:-1 group-title="",湖北卫视
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000250/index.m3u8?IAS
+#EXTINF:-1 group-title="",山西卫视
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000318/index.m3u8?IAS
+#EXTINF:-1 group-title="",东南卫视
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000502/index.m3u8?IAS
+#EXTINF:-1 group-title="",贵州卫视
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000489/index.m3u8?IAS
+#EXTINF:-1 group-title="",辽宁卫视
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000307/index.m3u8?IAS
+#EXTINF:-1 group-title="",重庆卫视
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000332/index.m3u8?IAS
+#EXTINF:-1 group-title="",黑龙江卫视
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000175/index.m3u8?IAS
+#EXTINF:-1 group-title="",内蒙古卫视
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000319/index.m3u8?IAS
+#EXTINF:-1 group-title="",宁夏卫视
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000309/index.m3u8?IAS
+#EXTINF:-1 group-title="",陕西卫视
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000313/index.m3u8?IAS
+#EXTINF:-1 group-title="",吉林卫视
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000533/index.m3u8?IAS
+#EXTINF:-1 group-title="",云南卫视
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000305/index.m3u8?IAS
+#EXTINF:-1 group-title="",三沙卫视
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000208/index.m3u8?IAS
+#EXTINF:-1 group-title="",青海卫视
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000320/index.m3u8?IAS
+#EXTINF:-1 group-title="",新疆卫视
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000316/index.m3u8?IAS
+#EXTINF:-1 group-title="",西藏卫视
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?IAS
+#EXTINF:-1 group-title="",厦门卫视
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
