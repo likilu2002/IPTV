@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="上海",全民热练
+#EXTINF:-1 group-title="其他",全民热练
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226508/index.m3u8$8.1M_1080
-#EXTINF:-1 group-title="上海",凤凰资讯
+#EXTINF:-1 group-title="其他",凤凰资讯
 http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
-#EXTINF:-1 group-title="上海",凤凰资讯
+#EXTINF:-1 group-title="其他",凤凰资讯
 https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
-#EXTINF:-1 group-title="上海",凤凰资讯
+#EXTINF:-1 group-title="其他",凤凰资讯
 http://112.19.171.156:9999/udp/239.93.0.118:2191
-#EXTINF:-1 group-title="上海",凤凰资讯
+#EXTINF:-1 group-title="其他",凤凰资讯
 http://giwon.ddns.net:5555/udp/239.93.0.118:2191
-#EXTINF:-1 group-title="上海",凤凰卫视
+#EXTINF:-1 group-title="卫视",凤凰卫视
 http://112.19.171.156:9999/udp/239.93.0.162:2192
-#EXTINF:-1 group-title="上海",凤凰卫视
+#EXTINF:-1 group-title="卫视",凤凰卫视
 https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
 #EXTINF:-1 group-title="上海",东方卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
