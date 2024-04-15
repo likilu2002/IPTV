@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="其他",全民热练
+#EXTINF:-1 group-title="其他频道",全民热练
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226508/index.m3u8$8.1M_1080
-#EXTINF:-1 group-title="其他",凤凰资讯
+#EXTINF:-1 group-title="其他频道",凤凰资讯
 http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="卫视频道",凤凰卫视
 http://112.19.171.156:9999/udp/239.93.0.162:2192
