@@ -9,9 +9,9 @@ https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
 http://112.19.171.156:9999/udp/239.93.0.118:2191
 #EXTINF:-1 group-title="其他",凤凰资讯
 http://giwon.ddns.net:5555/udp/239.93.0.118:2191
-#EXTINF:-1 group-title="卫视",凤凰卫视
+#EXTINF:-1 group-title="卫视频道",凤凰卫视
 http://112.19.171.156:9999/udp/239.93.0.162:2192
-#EXTINF:-1 group-title="卫视",凤凰卫视
+#EXTINF:-1 group-title="卫视频道",凤凰卫视
 https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
 #EXTINF:-1 group-title="上海",东方卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
