@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="xwzhhd" tvg-name="新闻综合备用" group-title="上海备用",新闻综合备用
+http://php.jdshipin.com:8880/bst.php?id=xwzhhd/4000000
+#EXTINF:-1 tvg-id="ssty" tvg-name="五星体育备用" group-title="上海备用",五星体育备用
+http://php.jdshipin.com:8880/bst.php?id=ssty/4000000
+#EXTINF:-1 tvg-id="dfws" tvg-name="东方卫视备用" group-title="上海备用",东方卫视备用
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+#EXTINF:-1 tvg-id="shds" tvg-name="都市频道备用" group-title="上海备用",都市频道备用
+http://php.jdshipin.com:8880/bst.php?id=shds
+#EXTINF:-1 tvg-id="qcxjhd" tvg-name="七彩戏剧备用" group-title="上海备用",七彩戏剧备用
+http://php.jdshipin.com:8880/bst.php?id=qcxjhd8m/8000000
+#EXTINF:-1 tvg-id="dycjhd" tvg-name="第一财经备用" group-title="上海备用",第一财经备用
+http://php.jdshipin.com:8880/bst.php?id=dycjhd/4000000
+#EXTINF:-1 tvg-id="dsjpdhd" tvg-name="东方影视备用" group-title="上海备用",东方影视备用
+http://php.jdshipin.com:8880/bst.php?id=dsjpdhd/4000000
+#EXTINF:-1 tvg-id="jspdhd" tvg-name="纪实人文备用" group-title="上海备用",纪实人文备用
+http://php.jdshipin.com:8880/bst.php?id=jspdhd/4000000
+#EXTINF:-1 tvg-id="shsshd" tvg-name="生活时尚备用" group-title="上海备用",生活时尚备用
+http://php.jdshipin.com:8880/bst.php?id=shsshd/4000000
+#EXTINF:-1 tvg-id="dsjchd" tvg-name="都市剧场备用" group-title="上海备用",都市剧场备用
+http://php.jdshipin.com:8880/bst.php?id=dsjchd/4000000
+#EXTINF:-1 tvg-id="hxjchd" tvg-name="欢笑剧场备用" group-title="上海备用",欢笑剧场备用
+http://php.jdshipin.com:8880/bst.php?id=hxjchd/4000000
+#EXTINF:-1 tvg-id="dfcjhd" tvg-name="东方财经备用" group-title="上海备用",东方财经备用
+http://php.jdshipin.com:8880/bst.php?id=dfcjhd8m/8000000
