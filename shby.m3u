@@ -1,27 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="xwzhhd" tvg-name="新闻综合备用" group-title="上海备用",新闻综合备用
-http://php.jdshipin.com:8880/bst.php?id=xwzhhd/4000000
-#EXTINF:-1 tvg-id="ssty" tvg-name="五星体育备用" group-title="上海备用",五星体育备用
-http://php.jdshipin.com:8880/bst.php?id=ssty/4000000
-#EXTINF:-1 tvg-id="dfws" tvg-name="东方卫视备用" group-title="上海备用",东方卫视备用
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-#EXTINF:-1 tvg-id="shds" tvg-name="都市频道备用" group-title="上海备用",都市频道备用
-http://php.jdshipin.com:8880/bst.php?id=shds
-#EXTINF:-1 tvg-id="qcxjhd" tvg-name="七彩戏剧备用" group-title="上海备用",七彩戏剧备用
-http://php.jdshipin.com:8880/bst.php?id=qcxjhd8m/8000000
-#EXTINF:-1 tvg-id="dycjhd" tvg-name="第一财经备用" group-title="上海备用",第一财经备用
-http://php.jdshipin.com:8880/bst.php?id=dycjhd/4000000
-#EXTINF:-1 tvg-id="dsjpdhd" tvg-name="东方影视备用" group-title="上海备用",东方影视备用
-http://php.jdshipin.com:8880/bst.php?id=dsjpdhd/4000000
-#EXTINF:-1 tvg-id="jspdhd" tvg-name="纪实人文备用" group-title="上海备用",纪实人文备用
-http://php.jdshipin.com:8880/bst.php?id=jspdhd/4000000
-#EXTINF:-1 tvg-id="shsshd" tvg-name="生活时尚备用" group-title="上海备用",生活时尚备用
-http://php.jdshipin.com:8880/bst.php?id=shsshd/4000000
-#EXTINF:-1 tvg-id="dsjchd" tvg-name="都市剧场备用" group-title="上海备用",都市剧场备用
-http://php.jdshipin.com:8880/bst.php?id=dsjchd/4000000
-#EXTINF:-1 tvg-id="hxjchd" tvg-name="欢笑剧场备用" group-title="上海备用",欢笑剧场备用
-http://php.jdshipin.com:8880/bst.php?id=hxjchd/4000000
-#EXTINF:-1 tvg-id="dfcjhd" tvg-name="东方财经备用" group-title="上海备用",东方财经备用
-http://php.jdshipin.com:8880/bst.php?id=dfcjhd8m/8000000
-#EXTINF:-1 tvg-id="setvhd" tvg-name="上海教育备用" group-title="上海备用",上海教育备用
-http://php.jdshipin.com:8880/bst.php?id=setvhd/8000000
+#EXTINF:-1 group-title="上海频道备用",东方卫视备用
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225942/index.m3u8
+#EXTINF:-1 group-title="上海频道备用",新闻综合备用
+http://a.jack4096.top:10001/udp/239.45.3.209:5140
+#EXTINF:-1 group-title="上海频道",都市频道
+http://www.ketsusi.com:8822/udp/239.45.3.236:5140
+#EXTINF:-1 group-title="上海频道",五星体育
+http://www.ketsusi.com:8822/udp/239.45.3.210:5140
+#EXTINF:-1 group-title="上海频道",第一财经
+http://222.71.11.180:4022/rtp/239.45.3.211:5140
+#EXTINF:-1 group-title="上海频道",纪实人文
+http://222.71.11.180:4022/rtp/239.45.3.212:5140
+#EXTINF:-1 group-title="上海频道",东方影视
+http://222.71.11.180:4022/rtp/239.45.3.237:5140
+#EXTINF:-1 group-title="上海频道",哈哈炫动
+http://222.71.11.180:4022/rtp/239.45.1.55:5140
+#EXTINF:-1 group-title="上海频道",上视外语
+http://222.71.11.180:4022/rtp/239.45.1.127:5140
+#EXTINF:-1 group-title="上海频道",都市剧场
+http://222.71.11.180:4022/rtp/239.45.3.136:5140
+#EXTINF:-1 group-title="上海频道",欢笑剧场
+http://222.71.11.180:4022/rtp/239.45.3.196:5140
+#EXTINF:-1 group-title="上海频道",全纪实
+http://222.71.11.180:4022/rtp/239.45.3.135:5140
+#EXTINF:-1 group-title="上海频道",生活时尚
+http://222.71.11.180:4022/rtp/239.45.3.132:5140
+#EXTINF:-1 group-title="上海频道",游戏风云
+http://222.71.11.180:4022/rtp/239.45.3.131:5140
+#EXTINF:-1 group-title="上海频道",教育台
+http://222.71.11.180:4022/rtp/239.45.3.122:5140#http://222.71.11.180:4022/rtp/239.45.3.252:5140
+#EXTINF:-1 group-title="上海频道",东方财经
+http://222.71.11.180:4022/rtp/239.45.1.119:5140#http://222.71.11.180:4022/rtp/239.45.3.192:5140
+#EXTINF:-1 group-title="上海频道",七彩戏剧
+http://222.71.11.180:4022/rtp/239.45.3.61:5140#http://222.71.11.180:4022/rtp/239.45.1.112:5140
+#EXTINF:-1 group-title="上海频道",法治天地
+http://222.71.11.180:4022/rtp/239.45.1.46:5140
+#EXTINF:-1 group-title="上海频道",金色频道
+http://222.71.11.180:4022/rtp/239.45.1.118:5140#http://222.71.11.180:4022/rtp/239.45.3.51:5140
+#EXTINF:-1 group-title="上海频道",健康人生
+http://222.71.11.180:4022/rtp/239.45.3.214:5140
+#EXTINF:-1 group-title="上海频道",百事通超级体育
+http://222.71.11.180:4022/rtp/239.45.3.139:5140
