@@ -1,0 +1,10 @@
+{
+    "timeout": 2,
+    "max_workers": 10,
+    "output_path": "/var/www/html/iptv/iptv.m3u",
+    "m3u_urls": [
+        "https://raw.githubusercontent.com/likilu2002/IPTV/main/migu.m3u",
+        "http://home.likilu.link:7788/iptv/sh.m3u",
+        "https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u"
+    ]
+}
